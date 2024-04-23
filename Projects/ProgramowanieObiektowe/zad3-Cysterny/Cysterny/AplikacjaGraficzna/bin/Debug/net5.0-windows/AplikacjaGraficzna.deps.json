@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AplikacjaGraficzna/1.0.0": {
+        "dependencies": {
+          "Bryły1": "1.0.0",
+          "Bryły2": "1.0.0",
+          "Cysterny": "1.0.0"
+        },
+        "runtime": {
+          "AplikacjaGraficzna.dll": {}
+        }
+      },
+      "Bryły1/1.0.0": {
+        "dependencies": {
+          "Cysterny": "1.0.0"
+        },
+        "runtime": {
+          "Bryły1.dll": {}
+        }
+      },
+      "Bryły2/1.0.0": {
+        "dependencies": {
+          "Cysterny": "1.0.0"
+        },
+        "runtime": {
+          "Bryły2.dll": {}
+        }
+      },
+      "Cysterny/1.0.0": {
+        "runtime": {
+          "Cysterny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplikacjaGraficzna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bryły1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bryły2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cysterny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
