@@ -10,5 +10,5 @@ Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi prac
 
 ### [Projekt 1: Lista zadań w Vue.js](github.com/Axerrek/vue-ToDoList)
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
-### [Projekt 1: Lista zadań w Vue.js]([github.com/Axerrek/vue-ToDoList](https://github.com/Axerrek/vue-WeatherApp))
+### [Projekt 2: Aplikacja pogodowa w Vue.js]([github.com/Axerrek/vue-ToDoList](https://github.com/Axerrek/vue-WeatherApp))
 Aplikacja do sprawdzania pogody, wykorzystująca API meteomatics.
