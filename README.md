@@ -10,5 +10,5 @@ Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi prac
 
 ### [Projekt 1: Lista zadań w Vue.js](github.com/Axerrek/vue-ToDoList)
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
-### [Projekt 2: Sklep internetowy w Vue.js](github.com/Axerrek/vue-GemstoneShop)
+### [Projekt 2: Sklep internetowy w Vue.js](github.com/Axerrek/vue-GemstoneGallery)
 Strona internetowa sklepu napisana w Vue.js.
