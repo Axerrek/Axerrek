@@ -30,3 +30,8 @@ Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi prac
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
 ### [Projekt 2: Sklep internetowy w Vue.js](https://github.com/Axerrek/vue-GemstoneGallery)
 Strona internetowa sklepu napisana w Vue.js.
+
+### [Projekt 3: Wieża Hanoi Ruby](https://github.com/Axerrek/HanoiTower)
+Implementacja Wieży Hanoi w konsoli, z wizualizacją przekładania dysków oraz podaną liczbą kroków.
+
+
