@@ -27,15 +27,15 @@ Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi prac
 
 ## Projekty
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>[Projekt 1: Lista zadań w Vue.js](https://github.com/Axerrek/vue-ToDoList)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>[Projekt 1: Lista zadań w Vue.js](https://github.com/Axerrek/vue-ToDoList)
 
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>[Projekt 2: Sklep internetowy w Vue.js](https://github.com/Axerrek/vue-GemstoneGallery)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>[Projekt 2: Sklep internetowy w Vue.js](https://github.com/Axerrek/vue-GemstoneGallery)
 Strona internetowa sklepu napisana w Vue.js.
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>[Projekt 3: Wieża Hanoi w Ruby](https://github.com/Axerrek/HanoiTower)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30"/>[Projekt 3: Wieża Hanoi w Ruby](https://github.com/Axerrek/HanoiTower)
 Implementacja Wieży Hanoi w konsoli, z wizualizacją przekładania dysków oraz podaną liczbą kroków.
 
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>[Projekt 4: webscraper autocentrum w Ruby](https://github.com/Axerrek/autodatascraper2)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30"/>[Projekt 4: webscraper autocentrum w Ruby](https://github.com/Axerrek/autodatascraper2)
 webscraper zbierający dane techniczne z sitemapy. Przeszukując URL wyciąga parametry i zapisuje do pliku CSV.
