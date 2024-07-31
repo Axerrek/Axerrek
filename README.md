@@ -27,7 +27,7 @@ Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi prac
 
 ## Projekty
 
-### [Projekt 1: Lista zadań w Vue.js](https://github.com/Axerrek/vue-ToDoList)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>### [Projekt 1: Lista zadań w Vue.js](https://github.com/Axerrek/vue-ToDoList)
 
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
 ### [Projekt 2: Sklep internetowy w Vue.js](https://github.com/Axerrek/vue-GemstoneGallery)
