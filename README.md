@@ -23,6 +23,8 @@
 <h3 align="left">Database</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/>
+
 </p>
 
 Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi pracowałem.
