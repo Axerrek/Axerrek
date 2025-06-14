@@ -25,9 +25,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
-Witaj w moim portfolio! Poniżej znajdziesz listę projektów, nad którymi pracowałem.
-
 ## Projekty
+
+### <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="40"/> [Praca Inżynierska - System Parkingowy](https://github.com/Axerrek/SystemParkingowy)
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>[Lista zadań](https://github.com/Axerrek/vue-ToDoList)
 
