@@ -29,6 +29,8 @@
 
 ### <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>[Praca Inżynierska - System Parkingowy](https://github.com/Axerrek/SystemParkingowy)
 
+Projekt Inteligetnego Systemu parkingowego korzystający z rozpoznawania obrazu. Projekt został zrealizowany za pomocą modelu rozpoznawania obrazu YOLOv8.
+
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>[Lista zadań](https://github.com/Axerrek/vue-ToDoList)
 
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
