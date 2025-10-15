@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="40"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
 </p>
 
 <h3 align="left">Programming</h3>
