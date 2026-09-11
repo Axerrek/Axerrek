@@ -31,6 +31,8 @@
 
 Projekt Inteligentnego Systemu parkingowego korzystający z rozpoznawania obrazu. Projekt został zrealizowany za pomocą modelu rozpoznawania obrazu YOLOv8.
 
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9c92b64a-267c-49cb-a263-bea739a65763" />[Aplikacja webowa do analityki wydatków](https://github.com/Axerrek/ExpenseManager)
+
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>[Lista zadań](https://github.com/Axerrek/vue-ToDoList)
 
 Mój pierwszy projekt w Vue.js. Prosta aplikacja To-do.
