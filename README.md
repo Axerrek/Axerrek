@@ -1,5 +1,5 @@
 # Języki, których użwam:
-<h3 align="left">Web</h3>
+## Web
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
 
@@ -9,16 +9,15 @@
 
 </p>
 
-<h3 align="left">Programming</h3>
+## Programming
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9c92b64a-267c-49cb-a263-bea739a65763" />
-
 </p>
 
-<h3 align="left">Database</h3>
+## Database
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </p>
