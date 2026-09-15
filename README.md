@@ -21,7 +21,7 @@
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </p>
-https://github.com/Axerrek/ExpenseManager
+
 # Projekty
 
 ## <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>[Praca Inżynierska - System Parkingowy](https://github.com/Axerrek/SystemParkingowy)
@@ -30,7 +30,7 @@ Projekt Inteligentnego Systemu parkingowego korzystający z rozpoznawania obrazu
 
 ## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9c92b64a-267c-49cb-a263-bea739a65763" />[Aplikacja webowa do analityki wydatków](https://github.com/Axerrek/ExpenseManager)
 
-Aplikacja webowa do kompleksowego zarządzania oraz kontrolowania budżetu domowego.
+Expense Manager to aplikacja internetowa stworzona w architekturze ASP.NET Core MVC i Entity Framework Core, służąca do kompleksowego zarządzania oraz kontrolowania budżetu domowego. System umożliwia pełną obsługę operacji CRUD na wydatkach, precyzyjne filtrowanie i wyszukiwanie danych za pomocą zapytań LINQ oraz automatyczną walidację formularzy po stronie serwera. Całość uzupełnia interaktywny panel analityczny z wykresami Chart.js, prezentujący podsumowanie wydatków w rozbiciu na poszczególne kategorie. 
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>[Lista zadań](https://github.com/Axerrek/vue-ToDoList)
 
