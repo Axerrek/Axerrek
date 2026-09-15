@@ -21,7 +21,7 @@
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </p>
-
+https://github.com/Axerrek/ExpenseManager
 # Projekty
 
 ## <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>[Praca Inżynierska - System Parkingowy](https://github.com/Axerrek/SystemParkingowy)
